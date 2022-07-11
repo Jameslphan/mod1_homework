@@ -9,12 +9,13 @@ The purpose of this exercise is to refactor the code to meet acceptance criteria
 3. Implimentation of accessible alt attributes for image elements.
 4. Heading attributes fall in sequential order.
 5. Title element is concise and descriptive.
+6. Styling sheet is condensed, organized, and comments added for ease of understanding.
 
 ## Benefits of Semantic HTML
 
 * Improved accessibility for those with disabilities and curbs legal complications.
 * Improved SEO (Search Engine Optimization)
-* Improved ease of use and understanding, allowing other developers to work and maintain it as well.
+* Improved ease of use and understanding, allowing other developers to work and maintain.
 
 ## Screenshot
 
@@ -25,3 +26,6 @@ The purpose of this exercise is to refactor the code to meet acceptance criteria
 ## Link to Deployed Site
 
 - https://jameslphan.github.io/mod1_homework/
+
+### Credits
+- Author of original code: Xandromus (No license) - coding-boot-camp/urban-octo-telegram.
