@@ -16,6 +16,12 @@ The purpose of this exercise is to refactor the code to meet acceptance criteria
 * Improved SEO (Search Engine Optimization)
 * Improved ease of use and understanding, allowing other developers to work and maintain it as well.
 
-## 
+## Screenshot
 
-![Website Visually Unchanged](/assets/images/Dynamic%20Marketing%20Strategies.png "Marketing Agency")](https://jameslphan.github.io/mod1_homework/)
+![Website Visually Unchanged](/assets/images/Dynamic%20Marketing%20Strategies.png "Marketing Agency")
+![Website Visually Unchanged](/assets/images/Dynamic%20Marketing%20Strategies2.png "Marketing Agency")
+![Website Visually Unchanged](/assets/images/Dynamic%20Marketing%20Strategies3.png "Marketing Agency")
+
+## Link to Deployed Site
+
+- https://jameslphan.github.io/mod1_homework/
